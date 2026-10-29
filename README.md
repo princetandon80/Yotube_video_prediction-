@@ -9,8 +9,6 @@
 
 * PROJECT OVERVIEW
 
-  - Built an end-to-end Machine Learning pipeline to predict video view counts based on viewer engagement signals and content metadata.
-
   - Successfully resolved severe positive skewness (power-law distribution) typical of video platforms by operating on a logarithmic scale.
 
 
