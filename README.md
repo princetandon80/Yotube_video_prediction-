@@ -1,4 +1,4 @@
-﻿# Yotube_video_prediction-
+﻿# Yotube_video_prediction
 ===================================================================
 
                   YOUTUBE VIEWS PREDICTION MODEL
