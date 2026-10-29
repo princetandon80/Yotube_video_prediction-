@@ -97,13 +97,7 @@
 
 
 
-* HOW TO CLONE AND RUN LOCALLY
 
-  1. Clone repository from GitHub:
-
-     git clone https://github.com/princetandon80/<YOUR_REPO_NAME>.git
-
-     cd <YOUR_REPO_NAME>
 
 
 
